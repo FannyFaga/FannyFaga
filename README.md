@@ -2,7 +2,7 @@
 👋 Hi there! I'm a passionate Cybersecurity student deeply interested in ethical hacking, threat detection, and digital defense.<br>🛡️ I actively engage in CTF (Capture The Flag) challenges to sharpen my skills in real-world attack scenarios.<br>💻 You’ll often find me on TryHackMe and Let’s Defend, exploring hands-on labs and blue team simulations.<br>📚 Currently learning and growing in areas like network security, malware analysis, incident response, and SIEM tools.<br>🚀 Always curious, always learning — open to collaboration, internships, and knowledge sharing!
 
 ## 🧑‍💻 Cybersecurity Progress
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mustong.png)](https://tryhackme.com/p/mustong)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mustong.png)](https://tryhackme.com/p/mustong)]
 🎯 Level up in cybersecurity every day on [TryHackMe](https://tryhackme.com/p/mustong)
 
 ## 🌐 Socials:

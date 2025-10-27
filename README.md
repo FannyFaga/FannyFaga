@@ -1,6 +1,9 @@
 # 💫 About Me:
 👋 Hi there! I'm a passionate Cybersecurity student deeply interested in ethical hacking, threat detection, and digital defense.<br>🛡️ I actively engage in CTF (Capture The Flag) challenges to sharpen my skills in real-world attack scenarios.<br>💻 You’ll often find me on TryHackMe and Let’s Defend, exploring hands-on labs and blue team simulations.<br>📚 Currently learning and growing in areas like network security, malware analysis, incident response, and SIEM tools.<br>🚀 Always curious, always learning — open to collaboration, internships, and knowledge sharing!
 
+## 🧑‍💻 Cybersecurity Progress
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mustong.png)](https://tryhackme.com/p/mustong)
+🎯 Level up in cybersecurity every day on [TryHackMe](https://tryhackme.com/p/mustong)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Fanny Faga Ibrahima) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Faga  Ibrahima Fanny) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:levisfanny33@gmail.com) 
